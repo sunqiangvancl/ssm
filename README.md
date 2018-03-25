@@ -1,4 +1,10 @@
 # SSM
+##非本人原创，仅作备份项目参考，原作者地址如下：
+https://github.com/liyifeng1994/ssm
+---------------
+原内容如下：
+
+
 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
 
 博客地址：[http://blog.csdn.net/qq598535550/article/details/51703190](http://blog.csdn.net/qq598535550/article/details/51703190)
